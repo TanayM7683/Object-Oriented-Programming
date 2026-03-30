@@ -1,4 +1,4 @@
-# Principles of Programming Lab
+# Object Oriented Programming
 
 This repository contains my coursework and lab assignments for Principles of Programming.
 
